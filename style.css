@@ -1,0 +1,25 @@
+body {
+	background-color:#ccffff;
+	margin:20px 20px 20px 20px;
+}
+
+h1 {
+	font-family:"Times New Roman", Times, serif;
+	text-align:center;
+}
+
+p {
+	font-family: Verdana, Helvetica, sans-serif;
+}
+
+ul {
+	margin: 25px 25px 25px 25px;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 20px;
+}
+
+ol {
+	margin: 25px 25px 25px 25px;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 20px;
+}
